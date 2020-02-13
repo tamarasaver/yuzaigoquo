@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://utheequaop.domainelalegende.com/sitemap.xml
